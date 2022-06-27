@@ -33,13 +33,14 @@
 </p>
 
 <p align="center">
-  <a gref="https://github.com/bear-zd">
+  <a href="https://github.com/bear-zd">
     <img src="https://github-readme-stats.vercel.app/api?username=bear-zd&show_icons=true&theme=buefy" alt="bear_zd's stats">
   </a>
 </p>
 
   <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bear-zd&layout=compact&exclude_repo=bear-zd.github.io&langs_count=6&theme=buefy" alt="brea_zd's stats">
+    <a href="https://github.com/bear-zd">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bear-zd&layout=compact&exclude_repo=bear-zd.github.io&langs_count=6&theme=buefy" alt="brea_zd's stats">
     </a>
   </p>
 
