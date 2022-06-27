@@ -24,16 +24,17 @@
     Contact me.
   <strong>
 </h1>
+<p align="center">
     <img src="https://img.shields.io/badge/-github-black?style=flat-square&logo=github" alt="bear-zd" href="https://github.com/bear-zd">
     <img src="https://img.shields.io/badge/-twitter-black?style=flat-square&logo=twitter" alt="bear_zd" href="https://twitter.com/zd_bear">
-    <img src="https://img.shields.io/badge/-discord-purple?style=flat-square&logo=discord" alt="bear_zd#9122" >
+    <img src="https://img.shields.io/badge/-discord-black?style=flat-square&logo=discord" alt="bear_zd#9122" >
     <img src="https://img.shields.io/badge/-stackoverflow-black?style=flat-square&logo=stackoverflow" alt="Zidea" href="https://stackoverflow.com/users/16833703/zidea">
     <img src="https://img.shields.io/badge/-steam-black?style=flat-square&logo=steam" alt="Zidea" href="https://steamcommunity.com/profiles/76561198189914286/">
 </p>
 
 <p align="center">
   <a gref="https://github.com/bear-zd">
-    <img src="https://github-readme-stats.vercel.app/api?username=bear-zd$show_icons=true&theme=buefy" alt="bear_zd's stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=bear-zd&show_icons=true&theme=buefy" alt="bear_zd's stats">
   </a>
 </p>
 
