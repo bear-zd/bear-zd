@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV" alt="OpenCV">
     <img src="https://img.shields.io/badge/-flask-black?style=flat-square&logo=Flask" alt="Flask">
     <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker" alt="Docker">
-    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git" alt="Git">
     <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySql" alt="MySQL">
     <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux" alt="Linux">
     <img src="https://img.shields.io/badge/-Aseprite-black?style=flat-square&logo=Aseprite" alt="Aseprite">
@@ -40,7 +39,7 @@
 
   <p align="center">
     <a href="https://github.com/bear-zd">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bear-zd&layout=compact&exclude_repo=bear-zd.github.io&langs_count=6&theme=buefy" alt="brea_zd's stats">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs=10/?username=bear-zd&layout=compact&exclude_repo=bear-zd.github.io&langs_count=6&theme=buefy" alt="brea_zd's stats">
     </a>
   </p>
 
